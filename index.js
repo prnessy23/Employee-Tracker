@@ -413,7 +413,7 @@ updateManager = () => {
 
                             let employee = params[0]
                             params[0] = manager
-                            params[] = employee
+                            params[1] = employee
 
                             const sql = `UPDATE employee SET manager_id = ? WHERE id =?`;
 
