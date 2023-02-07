@@ -1,11 +1,11 @@
 ### Employee-Tracker
 ____
-##### Description
+#### Description
 A command line application that allows a user to add, view, update and delete employees, roles and managers of an organization. The various tasks are accomplished using MySQL, Node.js and Inquirer.
 ___
 
 
-##### Table of Contents 
+#### Table of Contents 
 
 Installation
 Usage
@@ -29,10 +29,10 @@ ____
 
 
 
-##### Installation
+#### Installation
 MySQL, NODE.js, console.table and Inquirer are all needed to run this application.
 _____
-##### Usage
+#### Usage
 The application will allow users to add, view and edit employees and their respective roles, departments and managers.
 
 View a walk-through video of the application here; [Screencastify](https://drive.google.com/file/d/16Pz0-gOZsxhGv3QkDm8JDmwNVthALDtI/view)
