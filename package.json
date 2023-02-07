@@ -1,8 +1,27 @@
 {
-   "dependencies": {
-      "console.table": "^0.10.0",
-      "dotenv": "^16.0.3",
-      "inquirer": "^9.1.4",
-      "mysql2": "^3.1.0"
-   }
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "____ ##### Description A command line application that allows a user to add, view, update and delete employees, roles and managers of an organization. The various tasks are accomplished using MySQL, Node.js and Inquirer. ___",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prnessy23/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prnessy23/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/prnessy23/Employee-Tracker#readme"
 }
