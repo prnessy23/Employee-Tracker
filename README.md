@@ -6,9 +6,13 @@ ___
 
 
 ##### Table of Contents 
+
 Installation
 Usage
 License
+
+
+____
 
  
 
@@ -23,7 +27,7 @@ License
 
 
 
-____
+
 
 ##### Installation
 MySQL, NODE.js, console.table and Inquirer are all needed to run this application.
