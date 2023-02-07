@@ -28,7 +28,7 @@ _____
 ##### Usage
 The application will allow users to add, view and edit employees and their respective roles, departments and managers.
 
-View a walk-through video of the application here
+View a walk-through video of the application here; [Screencastify](https://drive.google.com/file/d/16Pz0-gOZsxhGv3QkDm8JDmwNVthALDtI/view)
 
 ____
 ##### License
